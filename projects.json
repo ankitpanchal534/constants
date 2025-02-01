@@ -6,7 +6,7 @@
     link: "https://medicomagic.com/",
     date: "18 Nov 2023",
     tech_skills: "Nextjs-(Pages Router) , CSS3 & Javascript",
-    description: "",
+    description: ""
   },
   {
     id: 21,
@@ -16,7 +16,7 @@
     date: "3 Nov 2024",
     tech_skills: "Next.js, mail.tm api , Tailwind css and Typescript",
     description: "Your Instant, Disposable Inbox for a Spam-Free Life!",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 22,
@@ -26,7 +26,7 @@
     date: "20 Oct 2024",
     tech_skills: "Next.js, Puppeteer api , Tailwind css and Typescript",
     description: "A simple application that scrape data from BBC.com & Newyork times",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 4,
@@ -36,7 +36,7 @@
     date: "15 Oct 2023",
     tech_skills: "Next.js, localstorage, Css and Material UI",
     description: "",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 12,
@@ -46,7 +46,7 @@
     date: "16 July 2023",
     tech_skills: "React.js & Material UI & react-dnd",
     description: "",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 2,
@@ -55,7 +55,7 @@
     tech_skills: "HTML, CSS, Bootstrap & Javascript",
     date: "05 Sep 2023",
     link: "https://yashpatelllc.com/",
-    description: "",
+    description: ""
   },
   {
     id: 3,
@@ -64,7 +64,7 @@
     tech_skills: "HTML, CSS, Bootstrap & Javascript",
     date: "20 Apr 2023",
     link: "https://www.deomllc.com/",
-    description: "",
+    description: ""
   },
 
   // {
@@ -74,7 +74,7 @@
   //   date: "20 03 2023",
   //   tech_skills: "React.js & Material UI",
   //   description: "",
-  //   type: "personal",
+  //   type: "personal"
   // },
 
   {
@@ -84,7 +84,7 @@
     link: "https://www.kwikcoderstechnologies.com/",
     date: "16 March 2023",
     tech_skills: "Next.js & Material UI",
-    description: "",
+    description: ""
   },
   {
     id: 7,
@@ -94,7 +94,7 @@
     date: "13 Jan 2023",
     tech_skills: "React.js and Material UI",
     description: "",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 8,
@@ -104,7 +104,7 @@
     date: "10 May 2022",
     tech_skills: "React.js,Redux, Html/Css & Javascript",
     description: "",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 9,
@@ -114,7 +114,7 @@
     date: "01 June 2022",
     tech_skills: "HTML/CSS & Javscript",
     description: "",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 10,
@@ -124,7 +124,7 @@
     date: "17 March 2022",
     tech_skills: "React.js & CSS & Javascript",
     description: "",
-    type: "personal",
+    type: "personal"
   },
   {
     id: 11,
@@ -134,6 +134,6 @@
     date: "09 Feb 2022",
     tech_skills: "React.js & CSS & Javascript",
     description: "",
-    type: "personal",
+    type: "personal"
   },
 ];
