@@ -1,4 +1,4 @@
-const my_projects = [
+[
   {
     id: 1,
     thumbnail: "/p-2.png",
@@ -137,4 +137,3 @@ const my_projects = [
     type: "personal",
   },
 ];
-export { my_projects };
