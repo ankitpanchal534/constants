@@ -5,8 +5,8 @@
     "title": "Medical Equipment company landing page.",
     "link": "https://medicomagic.com/",
     "date": "18 Nov 2023",
-    "tech_skills": "Nextjs-(Pages Router), CSS3 & Javascript",
-    "description": ""
+    "tech_skills": ["Next.js", "CSS3", "JavaScript"],
+    "description": "A professional landing page for a medical equipment company. It highlights the brand's offerings with a clean design. The page ensures a responsive and fast experience for users."
   },
   {
     "id": 21,
@@ -14,9 +14,8 @@
     "title": "Fun Mail.",
     "link": "https://fun-mail.vercel.app/",
     "date": "3 Nov 2024",
-    "tech_skills": "Next.js, mail.tm api, Tailwind css, and Typescript",
-    "description": "Your Instant, Disposable Inbox for a Spam-Free Life!",
-    "type": "personal"
+    "tech_skills": ["Next.js", "Mail.tm API", "Tailwind CSS", "TypeScript"],
+    "description": "An instant disposable email service that helps users manage spam-free communication. It allows users to generate temporary emails. The app ensures privacy and security."
   },
   {
     "id": 22,
@@ -24,9 +23,8 @@
     "title": "The Vibrant Post.",
     "link": "https://the-vibrant-post.vercel.app",
     "date": "20 Oct 2024",
-    "tech_skills": "Next.js, Puppeteer api, Tailwind css, and Typescript",
-    "description": "A simple application that scrapes data from BBC.com & New York Times",
-    "type": "personal"
+    "tech_skills": ["Next.js", "Puppeteer API", "Tailwind CSS", "TypeScript"],
+    "description": "A web application that scrapes and displays news from BBC and The New York Times. It helps users access curated news articles. The interface is minimalistic and user-friendly."
   },
   {
     "id": 4,
@@ -34,9 +32,8 @@
     "title": "Form Builder.",
     "link": "https://dynamic-form-generator-six.vercel.app/",
     "date": "15 Oct 2023",
-    "tech_skills": "Next.js, localstorage, Css, and Material UI",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["Next.js", "LocalStorage", "CSS", "Material UI"],
+    "description": "A dynamic form builder that enables users to create customizable forms. It supports real-time previews and data storage. The UI is interactive and intuitive."
   },
   {
     "id": 12,
@@ -44,27 +41,26 @@
     "thumbnail": "/p-5.png",
     "link": "https://assignment-mercor-frontend.vercel.app/",
     "date": "16 July 2023",
-    "tech_skills": "React.js & Material UI & react-dnd",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["React.js", "Material UI", "React DND"],
+    "description": "A task management board inspired by Asana with drag-and-drop functionality. Users can move tasks between different columns. It offers an easy and efficient task management experience."
   },
   {
     "id": 2,
     "title": "Event Management Website.",
     "thumbnail": "/p-3.png",
-    "tech_skills": "HTML, CSS, Bootstrap & Javascript",
+    "tech_skills": ["HTML", "CSS", "Bootstrap", "JavaScript"],
     "date": "05 Sep 2023",
     "link": "https://yashpatelllc.com/",
-    "description": ""
+    "description": "A feature-rich website for managing events seamlessly. Users can explore event listings and book services. The interface is sleek and mobile-friendly."
   },
   {
     "id": 3,
     "title": "Event Management Website.",
     "thumbnail": "/project_2.jpg",
-    "tech_skills": "HTML, CSS, Bootstrap & Javascript",
+    "tech_skills": ["HTML", "CSS", "Bootstrap", "JavaScript"],
     "date": "20 Apr 2023",
     "link": "https://www.deomllc.com/",
-    "description": ""
+    "description": "An event management platform allowing users to book and manage events efficiently. It provides event details, schedules, and booking options. Designed for a smooth user experience."
   },
   {
     "id": 6,
@@ -72,8 +68,8 @@
     "thumbnail": "/p-4.jpg",
     "link": "https://www.kwikcoderstechnologies.com/",
     "date": "16 March 2023",
-    "tech_skills": "Next.js & Material UI",
-    "description": ""
+    "tech_skills": ["Next.js", "Material UI"],
+    "description": "A modern landing page for a tech company showcasing its services. The site features a sleek design with engaging UI elements. Optimized for speed and accessibility."
   },
   {
     "id": 7,
@@ -81,19 +77,17 @@
     "thumbnail": "/p-6.png",
     "link": "https://fashion-website-jet.vercel.app/",
     "date": "13 Jan 2023",
-    "tech_skills": "React.js and Material UI",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["React.js", "Material UI"],
+    "description": "A stylish landing page for a fashion brand. It presents products with an elegant layout. The design focuses on aesthetics and usability."
   },
   {
     "id": 8,
     "thumbnail": "/p-7.jpg",
-    "title": "Basic Store ui [incomplete].",
+    "title": "Basic Store UI [Incomplete].",
     "link": "https://redux-store-six.vercel.app/",
     "date": "10 May 2022",
-    "tech_skills": "React.js, Redux, Html/Css & Javascript",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["React.js", "Redux", "HTML", "CSS", "JavaScript"],
+    "description": "A minimal store UI prototype for an e-commerce platform. It features basic cart functionality and product listing. Built as a learning project."
   },
   {
     "id": 9,
@@ -101,9 +95,8 @@
     "title": "Myntra homepage clone.",
     "link": "https://myntra-clone-beta.vercel.app/",
     "date": "01 June 2022",
-    "tech_skills": "HTML/CSS & Javascript",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["HTML", "CSS", "JavaScript"],
+    "description": "A clone of Myntra's homepage replicating its layout and design. It showcases UI structuring and responsive design techniques. Built for frontend practice."
   },
   {
     "id": 10,
@@ -111,9 +104,8 @@
     "title": "Google Notes Clone [UI].",
     "link": "https://google-keep-react-ochre.vercel.app/",
     "date": "17 March 2022",
-    "tech_skills": "React.js & CSS & Javascript",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["React.js", "CSS", "JavaScript"],
+    "description": "A simple UI clone of Google Keep for note-taking. It allows users to add, edit, and delete notes. Designed for smooth and intuitive interactions."
   },
   {
     "id": 11,
@@ -121,8 +113,7 @@
     "title": "Todo List.",
     "link": "https://keep-notes-sigma.vercel.app/",
     "date": "09 Feb 2022",
-    "tech_skills": "React.js & CSS & Javascript",
-    "description": "",
-    "type": "personal"
+    "tech_skills": ["React.js", "CSS", "JavaScript"],
+    "description": "A simple to-do list app for managing tasks. Users can add, complete, and remove tasks. A lightweight and efficient productivity tool."
   }
 ]
