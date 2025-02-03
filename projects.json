@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "thumbnail": "/p-2.png",
-    "title": "Medical Equipment company landing page.",
-    "link": "https://medicomagic.com/",
-    "date": "18 Nov 2023",
-    "tech_skills": ["Next.js", "CSS3", "JavaScript"],
-    "description": "A professional landing page for a medical equipment company. It highlights the brand's offerings with a clean design. The page ensures a responsive and fast experience for users."
-  },
-  {
     "id": 21,
     "thumbnail": "/p-21.png",
     "title": "Fun Mail.",
@@ -45,15 +36,6 @@
     "description": "A task management board inspired by Asana with drag-and-drop functionality. Users can move tasks between different columns. It offers an easy and efficient task management experience."
   },
   {
-    "id": 2,
-    "title": "Event Management Website.",
-    "thumbnail": "/p-3.png",
-    "tech_skills": ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    "date": "05 Sep 2023",
-    "link": "https://yashpatelllc.com/",
-    "description": "A feature-rich website for managing events seamlessly. Users can explore event listings and book services. The interface is sleek and mobile-friendly."
-  },
-  {
     "id": 3,
     "title": "Event Management Website.",
     "thumbnail": "/project_2.jpg",
@@ -61,15 +43,6 @@
     "date": "20 Apr 2023",
     "link": "https://www.deomllc.com/",
     "description": "An event management platform allowing users to book and manage events efficiently. It provides event details, schedules, and booking options. Designed for a smooth user experience."
-  },
-  {
-    "id": 6,
-    "title": "Landing page for tech company.",
-    "thumbnail": "/p-4.jpg",
-    "link": "https://www.kwikcoderstechnologies.com/",
-    "date": "16 March 2023",
-    "tech_skills": ["Next.js", "Material UI"],
-    "description": "A modern landing page for a tech company showcasing its services. The site features a sleek design with engaging UI elements. Optimized for speed and accessibility."
   },
   {
     "id": 7,
@@ -83,7 +56,7 @@
   {
     "id": 8,
     "thumbnail": "/p-7.jpg",
-    "title": "Basic Store UI [Incomplete].",
+    "title": "Basic eCommerce Store UI",
     "link": "https://redux-store-six.vercel.app/",
     "date": "10 May 2022",
     "tech_skills": ["React.js", "Redux", "HTML", "CSS", "JavaScript"],
