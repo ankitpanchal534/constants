@@ -1,10 +1,10 @@
 [{
   "id": 22,
   "thumbnail": "/ai4me.png",
-  "title": "Ai4me",
+  "title": "Ai4me - GeneratorCover Letter | Send Email",
   "link": "https://ai4me.in",
   "date": "20 Nov 2024",
-  "tech_skills": ["AI Models", "Resume Builder", "Cover Letter Generator", "Data Security"],
+  "tech_skills": ["AI Models", "React.js", "Tailwind css","Vite", "Data Security"],
   "description": "Ai4me is an AI-powered platform designed to help users create personalized resumes and cover letters. It utilizes free AI models to assist in crafting professional documents, ensuring data privacy and security."
 },
   {
